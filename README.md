@@ -498,12 +498,7 @@ It really helps and motivates further development.
 
 ## 👨‍💻 Author
 
-```diff
-+ Made with ❤️ in C by Ayush Shivam
-```
 
-<a href="https://github.com/CodesByAyushShivam">
-  Visit GitHub Profile
-</a>
+Made with ❤️ in C by <a href="https://github.com/CodesByAyushShivam">Ayush Shivam</a>
 
 </div>
