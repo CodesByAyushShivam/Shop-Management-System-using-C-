@@ -369,7 +369,7 @@ data/receipt_history.txt
 ## File Mode Used
 
 ```c
-fopen("receipt_history.txt", "a");
+fopen("data/receipt_history.txt", "a");
 ```
 
 ### Why Append Mode?
@@ -482,8 +482,7 @@ All remaining code in this project has been manually written and structured.
 
 Suggestions, corrections, improvements, and feedback are always welcome.
 
-Feel free to contact:
-[📧 ayushshivam7245@gmail.com](mailto:ayushshivam7245@gmail.com)
+Feel free to contact: 📧[ayushshivam7245@gmail.com](mailto:ayushshivam7245@gmail.com)
 
 ---
 
