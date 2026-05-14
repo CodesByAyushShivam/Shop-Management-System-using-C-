@@ -62,6 +62,7 @@ Shop Bill Management System/
 │   └── receipt_history.txt
 │
 ├── demo_generated_reciept.png
+├── LICENSE
 ├── main.c
 ├── main.exe
 └── README.md
