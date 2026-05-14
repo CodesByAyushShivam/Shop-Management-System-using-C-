@@ -125,7 +125,7 @@ gcc main.c -o main
     ```bash
     data/receipt_history.txt
     ```
-    
+
 ---
 
 # Concepts Used
@@ -494,11 +494,16 @@ It really helps and motivates further development.
 
 ---
 
-<h2 align="center">👨‍💻 Author</h2>
+<div align="center">
 
-<p align="center">
+## 👨‍💻 Author
+
 ```diff
-  Made with ❤️ in C by 
-  <a href="https://github.com/your-username"><b>Ayush Shivam</b></a>
++ Made with ❤️ in C by Ayush Shivam
 ```
-</p>
+
+<a href="https://github.com/CodesByAyushShivam">
+  Visit GitHub Profile
+</a>
+
+</div>
