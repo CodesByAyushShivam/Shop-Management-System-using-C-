@@ -75,11 +75,13 @@ Shop Bill Management System/
 
 ```bash
 git clone https://github.com/CodesByAyushShivam/Shop-Management-System-using-C-.git
+```
 
 ## Using SSH
 
 ```bash
 git clone git@github.com:CodesByAyushShivam/Shop-Management-System-using-C-.git
+```
 
 ---
 
@@ -87,6 +89,7 @@ git clone git@github.com:CodesByAyushShivam/Shop-Management-System-using-C-.git
 
 ```bash
 cd "Shop-Management-System-using-C-"
+```
 
 # How To Compile The Project
 
@@ -94,16 +97,19 @@ cd "Shop-Management-System-using-C-"
 Compile using:
 ```bash
 gcc main.c -o main
+```
 
 # How To Run The Project
 
 1. On Windows
     ```bash
     .\main
+    ```
 
 2. On Linux / macOS
     ```bash
     ./main
+    ```
 
 ---
 
@@ -118,7 +124,8 @@ gcc main.c -o main
 7. Receipt gets stored inside:
     ```bash
     data/receipt_history.txt
-
+    ```
+    
 ---
 
 # Concepts Used
