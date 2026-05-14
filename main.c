@@ -60,7 +60,7 @@ int main()
     printf("%s", receipt);
 
     FILE *file;
-    file = fopen("receipt_history.txt", "a");
+    file = fopen("data/receipt_history.txt", "a");
     if (file == NULL)
     {
         printf("Error opening file");
